@@ -513,7 +513,7 @@ margin-bottom: 6px;
   width: 1200px;
   height: 1200px;
   line-height: 500px;
-  transform: translate(-30%,4%);
+  transform: translate(-20%,4%);
   overflow: hidden
 }
 
@@ -522,7 +522,7 @@ margin-bottom: 6px;
   width: 1200px;
   height: 1200px;
   line-height: 500px;
-  transform: translate(-30%,-30%);
+  transform: translate(-20%,-30%);
   overflow: hidden
 }
 
